@@ -13,7 +13,7 @@ const [listProjects] = useState([
     images: '/pathfinder.PNG'
   },
   {
-    name: 'LCMS Database Managemnet System',
+    name: 'LCMS Database Management System',
     des: ' Collaborated in a team to design and develop a DBMS for a Law Firm Case Management System. Engineered database schema and queries using Oracle SQL for real-time data management. Built Unix shell scripts for menu-driven database operations and demoed advanced SQL queries. Created a Python/Django-based UI to interface with the Oracle database, enhancing functionality and user experience',
     mission: 'Full-Stack Development and DBMS Design',
     language: 'SQL, Oracle, Python/Django, UNIX Shell, Git',
