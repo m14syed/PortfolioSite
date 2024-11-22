@@ -10,7 +10,8 @@ This portfolio website is designed to provide an overview of my professional ski
 - React
 - VSCode
 
-## Installation
+## Go to site (deployment errors: no images and navbar errors)
+https://m14syed.github.io/PortfolioSite/
 
 
 
